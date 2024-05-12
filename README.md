@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritualcoder&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritualcoder&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritualcoder&layout=compact&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
