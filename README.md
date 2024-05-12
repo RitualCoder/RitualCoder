@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritualcoder&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritualcoder&layout=compact&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
