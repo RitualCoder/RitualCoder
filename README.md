@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**RitualCoder/RitualCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on Kase, a software that connect companies with association for Konect Group.
 - 🌱 I’m currently learning Vue JS and Nest JS
 - 📫 How to reach me: enzo.cornaggia@icloud.com
