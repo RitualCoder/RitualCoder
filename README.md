@@ -5,5 +5,7 @@
 - 📫 How to reach me: enzo.cornaggia@icloud.com
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritualcoder&layout=compact&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
