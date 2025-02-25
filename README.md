@@ -47,6 +47,3 @@ UI/UX :
 
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritualcoder&layout=compact&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
