@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔍 I am seeking a work-study position in web development. Feel free to contact me if you are interested.
-- 🌱 I’m currently learning Vue JS and Nest JS
+- 👨‍💻 I am currently perfecting nextjs and authjs.
 - 📚 My portfolio: https://ritualcoder.github.io
 - 📫 How to reach me: enzo.cornaggia@icloud.com
 
